@@ -1,3 +1,8 @@
+**HR Dataset -Interactive Dashboard Using Excel**
+
+
+
+
 HR Data Analysis with Excel 📊💼
 This project focuses on analyzing an HR dataset to extract valuable insights that can help in understanding employee performance, retention, and other key metrics. Using Excel, we'll clean, analyze, and visualize data to uncover patterns that drive informed decision-making.
 
