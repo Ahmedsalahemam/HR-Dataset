@@ -3,7 +3,7 @@ This project focuses on analyzing an HR dataset to extract valuable insights tha
 
 📋 Dataset Attributes:
 Employee ID (كود_الموظف)
-Name (الاسم)
++ Name (الاسم)
 Age (العمر)
 Gender (الجنس)
 Department (القسم)
